@@ -1,10 +1,11 @@
 package socialnw;
-
+//i'm broken , i wish i could go back and say i'm sorry
 import java.util.Scanner;
 
 public class SocialNW {
     public static void main(String[] args) {
         Scanner s=new Scanner(System.in);   
+        System.out.println("Welcome sir :");  
        System.out.print("Enter a number : ");  
        int n = s.nextInt();  
         checkPrime(n);
